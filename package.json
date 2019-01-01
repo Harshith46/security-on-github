@@ -1,7 +1,7 @@
 {
   "name": "octocat-memory-game",
   "description": "Memory game with Octocats",
-  "version": "0.0.1",
+  "version": Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca>,
   "dependencies": {
     "debug": "?",
     "ejs": "^2.5.6",
